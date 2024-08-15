@@ -5,7 +5,8 @@ Meu nome é **Stefany**
 -tilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
-  ![image](https://github.com/user-attachments/assets/ff0087f0-83a6-491f-8124-828aab3c95dd)
+![image](https://github.com/user-attachments/assets/940bae50-34ab-4793-a690-9263d12fad74)
+
   
 
 
