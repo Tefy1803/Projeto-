@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b1dace72-a118-4bad-a29b-5484b849485e)### boas vindas ao meu perfil 💙
+### boas vindas ao meu perfil 💙
 Meu nome é **Stefany** 
 -Estou estudando no Alura
 -Estou me desenvolvendo na língua javascript
